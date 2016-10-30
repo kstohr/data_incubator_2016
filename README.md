@@ -14,4 +14,4 @@ https://plot.ly/~kstohr/1427/frequency-distribution-of-speakers-sample-city-coun
 
 Data Source: 
 City of Tampa, City Council Meeting, October 20, 2016, 9am Session   
-Data source: https://apps.tampagov.net/cttv_cc_webapp/Agenda.aspx?pkey=1981
+Link: https://apps.tampagov.net/cttv_cc_webapp/Agenda.aspx?pkey=1981
