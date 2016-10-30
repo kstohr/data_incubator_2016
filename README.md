@@ -6,12 +6,12 @@ Plots include a frequency count of relevant words and a frequency distribution o
 
 NOTE: For speed and ease, in this instance I used plot.ly to host interactive plots. 
 
-Plot 1: Frequency count of relevant words mentionned in sample city council meeting
+Plot 1: Frequency count of relevant words mentionned in sample city council meeting  
 https://plot.ly/~kstohr/1425/frequency-of-relevant-words-sample-city-council-meeting/
 
-Plot 2: Frequency distribution of speakers at sample city council meeting
+Plot 2: Frequency distribution of speakers at sample city council meeting   
 https://plot.ly/~kstohr/1427/frequency-distribution-of-speakers-sample-city-council-meeting/
 
 Data Source: 
-City of Tampa, City Council Meeting, October 20, 2016, 9am Session
+City of Tampa, City Council Meeting, October 20, 2016, 9am Session   
 Data source: https://apps.tampagov.net/cttv_cc_webapp/Agenda.aspx?pkey=1981
