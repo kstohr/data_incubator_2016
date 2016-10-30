@@ -12,8 +12,8 @@ https://plot.ly/~kstohr/1425/frequency-of-relevant-words-sample-city-council-mee
 Plot 2: Frequency distribution of speakers at sample city council meeting   
 https://plot.ly/~kstohr/1427/frequency-distribution-of-speakers-sample-city-council-meeting/
 
-Source code: 
-This was done in Python 3.0 using Jupyter Notebook (again for ease). 
+Source code:   
+This was done in Python 3.0 using Jupyter Notebook (again for ease).   
 [Public Comment Analysis](https://github.com/kstohr/data_incubator_2016/blob/master/public_comment_analysis.ipynb "Public Comment Analysis")  
 
 Data Source: 
