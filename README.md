@@ -6,10 +6,10 @@ Plots include a frequency count of relevant words and a frequency distribution o
 NOTE: For speed and ease, in this instance I used plot.ly to host interactive plots. 
 
 *Plot 1:* Frequency count of relevant words mentionned in sample city council meeting  
-https://plot.ly/~kstohr/1425/frequency-of-relevant-words-sample-city-council-meeting/
+https://plot.ly/~kasstohr/2/frequency-of-relevant-words-sample-city-council-meeting/
 
 *Plot 2:* Frequency distribution of speakers at sample city council meeting   
-https://plot.ly/~kstohr/1427/frequency-distribution-of-speakers-sample-city-council-meeting/
+https://plot.ly/~kasstohr/4/frequency-distribution-of-speakers-sample-city-council-meeting/
 
 *Source code:*  
 This was done in Python 3.0 using Jupyter Notebook (again for ease).   
